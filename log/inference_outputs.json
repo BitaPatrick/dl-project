@@ -1,0 +1,240 @@
+[
+  {
+    "text": "1.1.1. A Weboldalon történő Megrendeléshez a Felhasználónak/Ügyfélnek a Weboldalon Saját fiókot kell létrehoznia neve, e-mail címe és jelszó megadásával.",
+    "pred_label": 5,
+    "confidence": 0.9765,
+    "probs": [
+      0.0033,
+      0.0025,
+      0.0037,
+      0.0139,
+      0.9765
+    ],
+    "expected": null,
+    "correct": null
+  },
+  {
+    "text": "1.1.2. Amennyiben a Felhasználó Saját fiók használata nélkül Megrendelést ad le az emag.hu-n, az eMAG részére, a Megrendelés során megadott adatokkal Saját fiókot hoz létre.",
+    "pred_label": 5,
+    "confidence": 0.8795,
+    "probs": [
+      0.0045,
+      0.0075,
+      0.0163,
+      0.0921,
+      0.8795
+    ],
+    "expected": null,
+    "correct": null
+  },
+  {
+    "text": "1.2.1. Az emag.hu weboldalon keresztül az Ügyfél/Vásárló elektronikus úton Megrendelést adhat le oly módon, hogy a kiválasztott Termék(ek)et a Kosárba helyezi, egyúttal megadja a Megrendelés teljesítéséhez szükséges szállítási és számlázási adatokat, valamint kiválasztja a fizetési és az átvételi módot. A Termék(ek) Kosárba helyezése nem jelenti a Megrendelés véglegesítését.",
+    "pred_label": 5,
+    "confidence": 0.7969,
+    "probs": [
+      0.0032,
+      0.0039,
+      0.0106,
+      0.1854,
+      0.7969
+    ],
+    "expected": null,
+    "correct": null
+  },
+  {
+    "text": "1.2.2. Az Ügyfél jelen ÁFF elfogadását követően a Megrendelés gombra kattintva véglegesítheti a Megrendelést (ajánlat).",
+    "pred_label": 5,
+    "confidence": 0.8598,
+    "probs": [
+      0.0034,
+      0.004,
+      0.0132,
+      0.1196,
+      0.8598
+    ],
+    "expected": null,
+    "correct": null
+  },
+  {
+    "text": "1.2.3. A Megrendelés véglegesítésével az Ügyfél/Vásárló kijelenti, hogy az általa megadott, a vásárláshoz szükséges adatok a valóságnak megfelelnek, és hozzájárul, hogy azokat az  Eladó Megrendelés teljesítése céljából felhasználja, kezelje, különösen, hogy szükség esetén, az Eladó felvegye a kapcsolatot vele a megadott elérhetőségek (email vagy telefon) bármelyikén. A Megrendelés véglegesítésével az Ügyfél vállalja, hogy az általa megjelölt fizetési módon a Megrendelés ellenértékét kiegyenlíti, ennek elmaradása esetén a Megrendelés teljesítését az Eladó megtagadhatja. (A rendelés folyamata: https://www.emag.hu/info/hogyan-rendelhetek-online)",
+    "pred_label": 4,
+    "confidence": 0.5893,
+    "probs": [
+      0.0111,
+      0.0627,
+      0.2565,
+      0.5893,
+      0.0804
+    ],
+    "expected": null,
+    "correct": null
+  },
+  {
+    "text": "Az MMM, illetve a Media Markt Webáruház nem vetette alá magát semmilyen magatartási kódex rendelkezéseinek.",
+    "pred_label": 5,
+    "confidence": 0.8694,
+    "probs": [
+      0.004,
+      0.007,
+      0.0197,
+      0.0999,
+      0.8694
+    ],
+    "expected": 5,
+    "correct": true
+  },
+  {
+    "text": "A termékkel/szolgáltatással kapcsolatos fontos tudnivalókat (így különösen azok lényeges tulajdonságai, jellemzői; műszaki / technikai paraméterek stb.), valamint az eladási árakat a Vásárló a termék információs oldalán ismerheti meg még a megrendelése leadása előtt.",
+    "pred_label": 5,
+    "confidence": 0.8298,
+    "probs": [
+      0.003,
+      0.0056,
+      0.0174,
+      0.1442,
+      0.8298
+    ],
+    "expected": 4,
+    "correct": false
+  },
+  {
+    "text": "A Vásárlónak a rendelés bármely szakaszában és a megrendelés MMM részére való elküldéséig a Media Markt Webáruházban bármikor lehetősége van az adatbeviteli hibák javítására a megrendelési felületen. A részletes leírást az ÁSZF 5.1. pontja tartalmazza",
+    "pred_label": 4,
+    "confidence": 0.6769,
+    "probs": [
+      0.0074,
+      0.0273,
+      0.165,
+      0.6769,
+      0.1234
+    ],
+    "expected": 3,
+    "correct": false
+  },
+  {
+    "text": "TTávollévők között kötött szerződés esetén a vállalkozás a jogszabály által előírt tájékoztatást – világos és közérthető nyelven – a Vásárlóval közli, vagy azt a Vásárló számára elérhetővé teszi az alkalmazott távollévők közötti kommunikációt lehetővé tévő eszköznek megfelelő módon. A tartós adathordozón (ennek minősül az elektronikus levél, az e-mail is) rendelkezésre bocsátott tájékoztatásnak olvashatónak kell lennie. Ha a távollevők közötti, elektronikus úton kötött szerződés a Vásárló számára fizetési kötelezettséget keletkeztet, a vállalkozás egyértelműen és jól látható módon, közvetlenül a Vásárló szerződési nyilatkozatának megtétele előtt felhívja a Vásárló figyelmét a szerződés szerinti termék vagy szolgáltatás lényeges tulajdonságaira a szerződés szerinti termékért vagy szolgáltatásért járó ellenszolgáltatás adóval megnövelt teljes összegéről vagy – ha a termék vagy szolgáltatás jellegéből adódóan az ellenértéket nem lehet előre ésszerűen kiszámítani – annak számítási módjáról, valamint az ezen felül felmerülő valamennyi költségről (így különösen a fuvardíjról vagy a postaköltségről), vagy ha e költségeket nem lehet ésszerűen előre kiszámítani, annak a ténynek a feltüntetéséről, hogy további költségek merülhetnek fel, határozatlan időre szóló vagy előfizetést magában foglaló szerződés esetében arról, hogy az ellenszolgáltatás teljes összege a számlázási időszakra vonatkozó valamennyi költséget tartalmazza. Ha az ilyen szerződés átalánydíjas, arról, hogy az ellenszolgáltatás teljes összege egyúttal a teljes havi költséget is jelenti. Ha az összes költséget nem lehet előre kiszámítani, a Vásárlót tájékoztatni kell az ellenszolgáltatás összegének kiszámításának módjáról; határozott időre szóló szerződés esetén a szerződés időtartamáról, határozatlan időre szóló szerződés esetén a szerződés megszüntetésének feltételeiről; a határozott időre szóló olyan szerződés esetén, amely határozatlan időtartamúvá alakulhat át, az átalakulás feltételeiről, és az így határozatlan időtartamúvá átalakult szerződés megszüntetésének feltételeiről; a Vásárló kötelezettségeinek szerződés szerinti legrövidebb időtartamáról.",
+    "pred_label": 3,
+    "confidence": 0.4599,
+    "probs": [
+      0.0779,
+      0.3899,
+      0.4599,
+      0.059,
+      0.0134
+    ],
+    "expected": 1,
+    "correct": false
+  },
+  {
+    "text": "A kereskedelmi célú internetes honlappal rendelkező vállalkozás köteles legkésőbb a Vásárló szerződéses ajánlatának megtételekor egyértelműen és olvashatóan feltüntetni az esetleges fuvarozási korlátozásokat és az elfogadott fizetési módokat.",
+    "pred_label": 4,
+    "confidence": 0.5032,
+    "probs": [
+      0.0036,
+      0.011,
+      0.064,
+      0.5032,
+      0.4182
+    ],
+    "expected": 5,
+    "correct": false
+  },
+  {
+    "text": "A távollévők között kötött szerződés megkötését követően – ésszerű időn belül, de a termék adásvételére irányuló szerződés esetén legkésőbb az átadáskor, a szolgáltatásnyújtására irányuló szerződés esetén legkésőbb a szolgáltatás teljesítésének megkezdésekor – a vállalkozás tartós adathordozón visszaigazolást ad a Vásárlónak a megkötött szerződésről. A visszaigazolás tartalmazza a fent részletesen meghatározott kötelező tájékoztatást, kivéve, ha azt a vállalkozás már a szerződés megkötése előtt tartós adathordozón a Vásárlónak megadta; és a Vásárló a 45/2014. (II.26) Korm. Rendelet 29. § m) pontja szerinti nyilatkozatot tett.",
+    "pred_label": 3,
+    "confidence": 0.5236,
+    "probs": [
+      0.0427,
+      0.2481,
+      0.5236,
+      0.1657,
+      0.0199
+    ],
+    "expected": 3,
+    "correct": true
+  },
+  {
+    "text": "Annak érdekében, hogy az árfigyelő rendszer figyelmeztető üzenetet küldhessen, a szolgáltatást igénybe vevő látogató e-mail címének kezelésére van szükség. Amennyiben a látogató rendelkezik MediaMarkt Applikációval, és az ún. push üzeneteket engedélyezte, úgy az árfigyelő push értesítést is küld. Az adatkezelésről bővebb információ az Adatvédelmi Szabályzatunk 18/C. pontjában található.",
+    "pred_label": 4,
+    "confidence": 0.5093,
+    "probs": [
+      0.0114,
+      0.0691,
+      0.3333,
+      0.5093,
+      0.0769
+    ],
+    "expected": 3,
+    "correct": false
+  },
+  {
+    "text": "6.2. A Vásárló részéről a megrendelés leadása nem eredményezi az MMM és a Vásárló közötti szerződés létrejöttét. A Vásárló által elküldött ajánlat (megrendelés) megérkezését az MMM késedelem nélkül, automatikusan generált e-mail útján, legkésőbb 48 órán belül visszaigazolja a Vásárló részére. Ez a visszaigazoló e-mail kizárólag arról tájékoztatja a Vásárlót, hogy a Media Markt Webáruházhoz a megrendelés megérkezett. Vásárló köteles a visszaigazoló e-mail tartalmát ellenőrizni, annak mellékletét ill. abban feltüntetett linkjeit részletesen áttekinteni, az általa megadott adatok, paraméterek helyességét leellenőrizni. A hibásan vagy nem kellő részletességgel megadott adatok, információk okán felmerülő bárminemű probléma, szállítási vagy egyéb többletköltség vagy ellehetetlenülés, késedelem Vásárlót terheli, az a Vásárló kizárólagos felelőssége.",
+    "pred_label": 3,
+    "confidence": 0.4733,
+    "probs": [
+      0.0314,
+      0.1592,
+      0.4733,
+      0.2866,
+      0.0496
+    ],
+    "expected": 2,
+    "correct": false
+  },
+  {
+    "text": "Wolt Delivery Magyarország Kft. (székhely: 1085 Budapest, Salétrom utca 4; cégjegyzékszám: 01-09- 390993). A házhozszállító partner a szállítás teljesítéséhez vásárlói adatokat dolgoz fel. Az adatfeldolgozásról részletesen olvashat az MMM https://www.mediamarkt.hu/hu/legal/adatvedelem oldalon elérhető Adatvédelmi Szabályzatának 11. és 23.2. pontjában.",
+    "pred_label": 4,
+    "confidence": 0.4962,
+    "probs": [
+      0.0152,
+      0.0536,
+      0.303,
+      0.4962,
+      0.132
+    ],
+    "expected": 3,
+    "correct": false
+  },
+  {
+    "text": "GLS General Logistics Systems Hungary Csomag-Logisztikai Kft. (székhely: 2351 Alsónémedi GLS Európa u. 2.; cégjegyzékszám: 13-09-111755), továbbá a Magyar Posta Zrt. (székhely: 1138 Budapest, Dunavirág u. 2-6, cégjegyzékszám: 01-10-042463). A csomagautomatát üzemeltető partner (a továbbiakban: üzemeltető partner) a szállítás teljesítéséhez vásárlói adatokat dolgoz fel. Az adatfeldolgozásról részletesen olvashat az MMM https://www.mediamarkt.hu/hu/shop/adatvedelem.html oldalon elérhető Adatvédelmi Szabályzatának 11. és 23.2. pontjában. A szolgáltatás igénybevételének feltétele, hogy a Vásárló a mobiltelefonszámát, valamint az e-mail címét megadja.",
+    "pred_label": 5,
+    "confidence": 0.3578,
+    "probs": [
+      0.0268,
+      0.0636,
+      0.234,
+      0.3178,
+      0.3578
+    ],
+    "expected": 2,
+    "correct": false
+  },
+  {
+    "text": "Amennyiben a raktár zárva tart, és a Vásárló a rendelését ezen a napon adja le, úgy a rendelés feldolgozása az első következő raktári munkanapon történik meg. A kiszállítás minden esetben arendelés feldolgozását követő munkanapon történik.Ennek megfelelően a péntek 15:00 óra és a következő hétfő 15:00 óra között beérkezett rendelések feldolgozását az MMM hétfőn vállalja, így ezen rendelések kiszállítására kedden kerül sor.",
+    "pred_label": 5,
+    "confidence": 0.759,
+    "probs": [
+      0.0051,
+      0.0067,
+      0.0136,
+      0.2156,
+      0.759
+    ],
+    "expected": 3,
+    "correct": false
+  },
+  {
+    "text": "Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű szakaszában. Az Utánvét díj a szállítási költséghez adódik hozzá és az adott ügylet vonatkozásában kiállított számviteli bizonylaton jelenik meg szállítási költség/utánvét díj soron.",
+    "pred_label": 4,
+    "confidence": 0.4689,
+    "probs": [
+      0.0138,
+      0.0943,
+      0.3575,
+      0.4689,
+      0.0654
+    ],
+    "expected": 4,
+    "correct": true
+  }
+]

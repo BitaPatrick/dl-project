@@ -1,0 +1,48 @@
+2025-12-14 18:42:22,847 - INFO - Zip already exists at /app/data/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1, skipping download.
+2025-12-14 18:42:22,868 - INFO - Extracting /app/data/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1 to /app/data/raw
+2025-12-14 18:42:22,923 - INFO - Detected nested dataset folder: legaltextdecoder
+2025-12-14 18:42:22,929 - INFO - Loaded 318 records for A5VHUA
+2025-12-14 18:42:22,930 - INFO - Loaded 107 records for BCLHKC
+2025-12-14 18:42:22,930 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/BP17IB/meta.json; skipped 1 of 1 entries.
+2025-12-14 18:42:22,931 - INFO - No JSON records found for BP17IB; skipping.
+2025-12-14 18:42:22,932 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/E77YIW/mak_aszf_cimkezes.json; skipped 2 of 105 entries.
+2025-12-14 18:42:22,932 - INFO - Loaded 103 records for E77YIW
+2025-12-14 18:42:22,935 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/EKGPBX/project-29-at-2025-10-16-16-34-dc747442.json; skipped 15 of 284 entries.
+2025-12-14 18:42:22,935 - INFO - Loaded 269 records for EKGPBX
+2025-12-14 18:42:22,937 - INFO - Loaded 151 records for F0B9YK
+2025-12-14 18:42:22,938 - INFO - Loaded 104 records for FA0B9B
+2025-12-14 18:42:22,940 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/G1QFG2/cimkezes.json; skipped 14 of 117 entries.
+2025-12-14 18:42:22,940 - INFO - Loaded 103 records for G1QFG2
+2025-12-14 18:42:22,941 - INFO - Loaded 101 records for GSFSJ1
+2025-12-14 18:42:22,943 - INFO - Loaded 124 records for HV75KB
+2025-12-14 18:42:22,945 - INFO - Loaded 123 records for HW921K
+2025-12-14 18:42:22,948 - INFO - Loaded 278 records for I1TLYH
+2025-12-14 18:42:22,948 - INFO - No JSON records found for J0R9YS; skipping.
+2025-12-14 18:42:22,950 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/K3I7DL/KH_aszf_cimkezes.json; skipped 9 of 101 entries.
+2025-12-14 18:42:22,951 - INFO - Loaded 92 records for K3I7DL
+2025-12-14 18:42:22,951 - INFO - No JSON records found for KRR9OD; skipping.
+2025-12-14 18:42:22,953 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/LWVUH9/shiver_aszf_cimkezes.json; skipped 1 of 89 entries.
+2025-12-14 18:42:22,954 - INFO - Loaded 157 records for LWVUH9
+2025-12-14 18:42:22,955 - INFO - Loaded 133 records for LXXAMS
+2025-12-14 18:42:22,957 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/MDKFWC/hasznalt_auto_cimkek.json; skipped 1 of 143 entries.
+2025-12-14 18:42:22,957 - INFO - Loaded 142 records for MDKFWC
+2025-12-14 18:42:22,959 - INFO - Loaded 105 records for NHVU6N
+2025-12-14 18:42:22,961 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/Q88P3E/erste-diakhitel-kozpont_cimkezes.json; skipped 5 of 225 entries.
+2025-12-14 18:42:22,961 - INFO - Loaded 220 records for Q88P3E
+2025-12-14 18:42:22,963 - INFO - Loaded 119 records for QG1L1V
+2025-12-14 18:42:22,964 - INFO - Loaded 110 records for R1Q6I8
+2025-12-14 18:42:22,965 - INFO - No JSON records found for R92D9T; skipping.
+2025-12-14 18:42:22,967 - INFO - Loaded 189 records for SS0N7G
+2025-12-14 18:42:22,970 - INFO - Loaded 144 records for T989VT
+2025-12-14 18:42:22,971 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/TFH22P/cimekezes.json; skipped 33 of 159 entries.
+2025-12-14 18:42:22,972 - INFO - Loaded 126 records for TFH22P
+2025-12-14 18:42:22,972 - INFO - No JSON records found for UJVBTY; skipping.
+2025-12-14 18:42:22,973 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/WFXBHI/kepregeny_depo_aszf.json; skipped 73 of 139 entries.
+2025-12-14 18:42:22,974 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/WFXBHI/libri_aszf.json; skipped 5 of 125 entries.
+2025-12-14 18:42:22,975 - INFO - Loaded 186 records for WFXBHI
+2025-12-14 18:42:22,976 - INFO - Loaded 111 records for XQEBMQ
+2025-12-14 18:42:22,978 - INFO - Loaded 120 records for Z7ZF6D
+2025-12-14 18:42:22,978 - INFO - Skipping excluded directory: consensus
+2025-12-14 18:42:22,978 - INFO - Skipping excluded directory: sample
+2025-12-14 18:42:22,979 - INFO - Split complete. Train: 3154 records, Test: 581 records
+2025-12-14 18:42:23,009 - INFO - Preprocessing finished. Total records: 3735

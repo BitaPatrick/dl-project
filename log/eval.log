@@ -1,0 +1,36 @@
+2025-12-14 19:26:35,791 - INFO - Using device: cpu
+2025-12-14 19:26:35,812 - INFO - Train rows: 3154, Test rows: 581
+2025-12-14 19:26:35,813 - INFO - Validation rows: 316
+2025-12-14 19:26:37,271 - INFO - Running validation evaluation...
+2025-12-14 19:27:04,014 - INFO - Classification report:
+              precision    recall  f1-score   support
+
+           0      1.000     0.143     0.250        14
+           1      0.444     0.324     0.375        37
+           2      0.377     0.324     0.348        71
+           3      0.496     0.643     0.560        98
+           4      0.707     0.729     0.718        96
+
+    accuracy                          0.538       316
+   macro avg      0.605     0.433     0.450       316
+weighted avg      0.550     0.538     0.525       316
+
+2025-12-14 19:27:04,312 - INFO - Saved confusion matrix for val to media/confusion_val.png
+2025-12-14 19:27:04,329 - INFO - Running test evaluation...
+2025-12-14 19:28:03,607 - INFO - Classification report:
+              precision    recall  f1-score   support
+
+           0      0.889     0.131     0.229        61
+           1      0.302     0.203     0.242        79
+           2      0.319     0.394     0.352       109
+           3      0.275     0.423     0.333       142
+           4      0.602     0.526     0.562       190
+
+    accuracy                          0.391       581
+   macro avg      0.477     0.335     0.344       581
+weighted avg      0.458     0.391     0.388       581
+
+2025-12-14 19:28:03,756 - INFO - Saved confusion matrix for test to media/confusion_test.png
+2025-12-14 19:28:03,778 - INFO - Validation metrics -> acc: 0.5380 | f1_macro: 0.4503
+2025-12-14 19:28:03,780 - INFO - Test metrics -> acc: 0.3907 | f1_macro: 0.3437
+2025-12-14 19:28:03,801 - INFO - Saved evaluation metrics to /app/data/model.eval.json
