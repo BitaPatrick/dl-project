@@ -4,7 +4,7 @@ End-to-end pipeline for readability classification (labels 1–5) on Hungarian �
 
 ## Project Information
 - **Topic**: Legal Text Decoder  
-- **Student Name**: _Fill in your name_  
+- **Student Name**: Bita Patrick Peter KRR9OD
 - **Aiming for +1 Mark**: No
 
 ## What the Pipeline Does
@@ -41,7 +41,7 @@ This executes preprocess → baseline → HuBERT train (4 epochs) → eval (val+
 - **Inference results**: `log/inference_outputs.json`
 - **Notebooks**: `notebook/01-data-exploration.ipynb`, `notebook/02-label-analysis.ipynb`
 
-### Plot preview (files will be generated after a full run)
+### Plot preview
 ![Training curves](media/training_curves.png)
 ![Validation confusion matrix](media/confusion_val.png)
 ![Test confusion matrix](media/confusion_test.png)
