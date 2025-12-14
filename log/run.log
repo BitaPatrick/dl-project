@@ -1,124 +1,126 @@
-[run.sh] Starting full pipeline run at 2025-12-14T18:42:22+00:00
-2025-12-14 18:42:22,847 - INFO - Zip already exists at /app/data/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1, skipping download.
-2025-12-14 18:42:22,868 - INFO - Extracting /app/data/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1 to /app/data/raw
-2025-12-14 18:42:22,923 - INFO - Detected nested dataset folder: legaltextdecoder
-2025-12-14 18:42:22,929 - INFO - Loaded 318 records for A5VHUA
-2025-12-14 18:42:22,930 - INFO - Loaded 107 records for BCLHKC
-2025-12-14 18:42:22,930 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/BP17IB/meta.json; skipped 1 of 1 entries.
-2025-12-14 18:42:22,931 - INFO - No JSON records found for BP17IB; skipping.
-2025-12-14 18:42:22,932 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/E77YIW/mak_aszf_cimkezes.json; skipped 2 of 105 entries.
-2025-12-14 18:42:22,932 - INFO - Loaded 103 records for E77YIW
-2025-12-14 18:42:22,935 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/EKGPBX/project-29-at-2025-10-16-16-34-dc747442.json; skipped 15 of 284 entries.
-2025-12-14 18:42:22,935 - INFO - Loaded 269 records for EKGPBX
-2025-12-14 18:42:22,937 - INFO - Loaded 151 records for F0B9YK
-2025-12-14 18:42:22,938 - INFO - Loaded 104 records for FA0B9B
-2025-12-14 18:42:22,940 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/G1QFG2/cimkezes.json; skipped 14 of 117 entries.
-2025-12-14 18:42:22,940 - INFO - Loaded 103 records for G1QFG2
-2025-12-14 18:42:22,941 - INFO - Loaded 101 records for GSFSJ1
-2025-12-14 18:42:22,943 - INFO - Loaded 124 records for HV75KB
-2025-12-14 18:42:22,945 - INFO - Loaded 123 records for HW921K
-2025-12-14 18:42:22,948 - INFO - Loaded 278 records for I1TLYH
-2025-12-14 18:42:22,948 - INFO - No JSON records found for J0R9YS; skipping.
-2025-12-14 18:42:22,950 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/K3I7DL/KH_aszf_cimkezes.json; skipped 9 of 101 entries.
-2025-12-14 18:42:22,951 - INFO - Loaded 92 records for K3I7DL
-2025-12-14 18:42:22,951 - INFO - No JSON records found for KRR9OD; skipping.
-2025-12-14 18:42:22,953 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/LWVUH9/shiver_aszf_cimkezes.json; skipped 1 of 89 entries.
-2025-12-14 18:42:22,954 - INFO - Loaded 157 records for LWVUH9
-2025-12-14 18:42:22,955 - INFO - Loaded 133 records for LXXAMS
-2025-12-14 18:42:22,957 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/MDKFWC/hasznalt_auto_cimkek.json; skipped 1 of 143 entries.
-2025-12-14 18:42:22,957 - INFO - Loaded 142 records for MDKFWC
-2025-12-14 18:42:22,959 - INFO - Loaded 105 records for NHVU6N
-2025-12-14 18:42:22,961 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/Q88P3E/erste-diakhitel-kozpont_cimkezes.json; skipped 5 of 225 entries.
-2025-12-14 18:42:22,961 - INFO - Loaded 220 records for Q88P3E
-2025-12-14 18:42:22,963 - INFO - Loaded 119 records for QG1L1V
-2025-12-14 18:42:22,964 - INFO - Loaded 110 records for R1Q6I8
-2025-12-14 18:42:22,965 - INFO - No JSON records found for R92D9T; skipping.
-2025-12-14 18:42:22,967 - INFO - Loaded 189 records for SS0N7G
-2025-12-14 18:42:22,970 - INFO - Loaded 144 records for T989VT
-2025-12-14 18:42:22,971 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/TFH22P/cimekezes.json; skipped 33 of 159 entries.
-2025-12-14 18:42:22,972 - INFO - Loaded 126 records for TFH22P
-2025-12-14 18:42:22,972 - INFO - No JSON records found for UJVBTY; skipping.
-2025-12-14 18:42:22,973 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/WFXBHI/kepregeny_depo_aszf.json; skipped 73 of 139 entries.
-2025-12-14 18:42:22,974 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/WFXBHI/libri_aszf.json; skipped 5 of 125 entries.
-2025-12-14 18:42:22,975 - INFO - Loaded 186 records for WFXBHI
-2025-12-14 18:42:22,976 - INFO - Loaded 111 records for XQEBMQ
-2025-12-14 18:42:22,978 - INFO - Loaded 120 records for Z7ZF6D
-2025-12-14 18:42:22,978 - INFO - Skipping excluded directory: consensus
-2025-12-14 18:42:22,978 - INFO - Skipping excluded directory: sample
-2025-12-14 18:42:22,979 - INFO - Split complete. Train: 3154 records, Test: 581 records
-2025-12-14 18:42:23,009 - INFO - Preprocessing finished. Total records: 3735
-2025-12-14 18:42:24,659 - INFO - Using device: cpu
-2025-12-14 18:42:24,659 - INFO - Hyperparameters -> model: SZTAKI-HLT/hubert-base-cc | epochs: 3 | batch: 8 | lr: 3e-05 | max_len: 128 | warmup: 0 | weight_decay: 0.01 | grad_clip: 1.0
-2025-12-14 18:42:24,684 - INFO - Loaded data. Train rows: 3154, Test rows: 581
-2025-12-14 18:42:24,685 - INFO - Train label distribution -> 1:139, 2:371, 3:705, 4:978, 5:961
-2025-12-14 18:42:32,280 - INFO - Model params: total=110621957 trainable=110621957
-2025-12-14 18:42:32,286 - INFO - Train (fit) label distribution -> 1:125, 2:334, 3:634, 4:880, 5:865
-2025-12-14 18:42:32,290 - INFO - Validation label distribution -> 1:14, 2:37, 3:71, 4:98, 5:96
-2025-12-14 18:42:32,292 - INFO - Test label distribution -> 1:61, 2:79, 3:109, 4:142, 5:190
-2025-12-14 18:56:53,901 - INFO - Epoch 1/3 | loss: 1.3055 | val_acc: 0.4589 | val_f1_macro: 0.3004 | time: 838.26s
-2025-12-14 19:09:59,999 - INFO - Epoch 2/3 | loss: 1.1338 | val_acc: 0.4937 | val_f1_macro: 0.3655 | time: 761.96s
-2025-12-14 19:25:40,252 - INFO - Epoch 3/3 | loss: 0.8911 | val_acc: 0.5380 | val_f1_macro: 0.4503 | time: 911.41s
-2025-12-14 19:26:33,021 - INFO - Test metrics: {'accuracy': 0.39070567986230637, 'f1_macro': 0.3437171547062871}
-2025-12-14 19:26:33,836 - INFO - Saved model weights to /app/data/model.pt
-2025-12-14 19:26:33,839 - INFO - Saved metrics to /app/data/model.json
-2025-12-14 19:26:33,983 - INFO - Saved training curves to media/training_curves.png
+[run.sh] Starting full pipeline run at 2025-12-14T20:11:20+00:00
+2025-12-14 20:11:21,006 - INFO - Zip already exists at /app/data/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1, skipping download.
+2025-12-14 20:11:21,032 - INFO - Extracting /app/data/IQDYwXUJcB_jQYr0bDfNT5RKARYgfKoH97zho3rxZ46KA1I?e=iFp3iz&download=1 to /app/data/raw
+2025-12-14 20:11:21,088 - INFO - Detected nested dataset folder: legaltextdecoder
+2025-12-14 20:11:21,093 - INFO - Loaded 318 records for A5VHUA
+2025-12-14 20:11:21,094 - INFO - Loaded 107 records for BCLHKC
+2025-12-14 20:11:21,095 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/BP17IB/meta.json; skipped 1 of 1 entries.
+2025-12-14 20:11:21,095 - INFO - No JSON records found for BP17IB; skipping.
+2025-12-14 20:11:21,096 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/E77YIW/mak_aszf_cimkezes.json; skipped 2 of 105 entries.
+2025-12-14 20:11:21,097 - INFO - Loaded 103 records for E77YIW
+2025-12-14 20:11:21,099 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/EKGPBX/project-29-at-2025-10-16-16-34-dc747442.json; skipped 15 of 284 entries.
+2025-12-14 20:11:21,100 - INFO - Loaded 269 records for EKGPBX
+2025-12-14 20:11:21,101 - INFO - Loaded 151 records for F0B9YK
+2025-12-14 20:11:21,102 - INFO - Loaded 104 records for FA0B9B
+2025-12-14 20:11:21,103 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/G1QFG2/cimkezes.json; skipped 14 of 117 entries.
+2025-12-14 20:11:21,104 - INFO - Loaded 103 records for G1QFG2
+2025-12-14 20:11:21,105 - INFO - Loaded 101 records for GSFSJ1
+2025-12-14 20:11:21,106 - INFO - Loaded 124 records for HV75KB
+2025-12-14 20:11:21,108 - INFO - Loaded 123 records for HW921K
+2025-12-14 20:11:21,110 - INFO - Loaded 278 records for I1TLYH
+2025-12-14 20:11:21,111 - INFO - No JSON records found for J0R9YS; skipping.
+2025-12-14 20:11:21,112 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/K3I7DL/KH_aszf_cimkezes.json; skipped 9 of 101 entries.
+2025-12-14 20:11:21,113 - INFO - Loaded 92 records for K3I7DL
+2025-12-14 20:11:21,113 - INFO - No JSON records found for KRR9OD; skipping.
+2025-12-14 20:11:21,114 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/LWVUH9/shiver_aszf_cimkezes.json; skipped 1 of 89 entries.
+2025-12-14 20:11:21,115 - INFO - Loaded 157 records for LWVUH9
+2025-12-14 20:11:21,116 - INFO - Loaded 133 records for LXXAMS
+2025-12-14 20:11:21,118 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/MDKFWC/hasznalt_auto_cimkek.json; skipped 1 of 143 entries.
+2025-12-14 20:11:21,118 - INFO - Loaded 142 records for MDKFWC
+2025-12-14 20:11:21,120 - INFO - Loaded 105 records for NHVU6N
+2025-12-14 20:11:21,121 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/Q88P3E/erste-diakhitel-kozpont_cimkezes.json; skipped 5 of 225 entries.
+2025-12-14 20:11:21,122 - INFO - Loaded 220 records for Q88P3E
+2025-12-14 20:11:21,123 - INFO - Loaded 119 records for QG1L1V
+2025-12-14 20:11:21,125 - INFO - Loaded 110 records for R1Q6I8
+2025-12-14 20:11:21,125 - INFO - No JSON records found for R92D9T; skipping.
+2025-12-14 20:11:21,127 - INFO - Loaded 189 records for SS0N7G
+2025-12-14 20:11:21,130 - INFO - Loaded 144 records for T989VT
+2025-12-14 20:11:21,131 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/TFH22P/cimekezes.json; skipped 33 of 159 entries.
+2025-12-14 20:11:21,131 - INFO - Loaded 126 records for TFH22P
+2025-12-14 20:11:21,132 - INFO - No JSON records found for UJVBTY; skipping.
+2025-12-14 20:11:21,133 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/WFXBHI/kepregeny_depo_aszf.json; skipped 73 of 139 entries.
+2025-12-14 20:11:21,134 - WARNING - Missing text/label in /app/data/raw/legaltextdecoder/WFXBHI/libri_aszf.json; skipped 5 of 125 entries.
+2025-12-14 20:11:21,134 - INFO - Loaded 186 records for WFXBHI
+2025-12-14 20:11:21,136 - INFO - Loaded 111 records for XQEBMQ
+2025-12-14 20:11:21,137 - INFO - Loaded 120 records for Z7ZF6D
+2025-12-14 20:11:21,138 - INFO - Skipping excluded directory: consensus
+2025-12-14 20:11:21,138 - INFO - Skipping excluded directory: sample
+2025-12-14 20:11:21,139 - INFO - Split complete. Train: 3154 records, Test: 581 records
+2025-12-14 20:11:21,174 - INFO - Preprocessing finished. Total records: 3735
+2025-12-14 20:11:22,315 - INFO - Using device: cpu
+2025-12-14 20:11:22,315 - INFO - Hyperparameters -> model: SZTAKI-HLT/hubert-base-cc | epochs: 3 | batch: 8 | lr: 3e-05 | max_len: 128 | warmup: 0 | weight_decay: 0.01 | grad_clip: 1.0
+2025-12-14 20:11:22,332 - INFO - Loaded data. Train rows: 3154, Test rows: 581
+2025-12-14 20:11:22,333 - INFO - Train label distribution -> 1:139, 2:371, 3:705, 4:978, 5:961
+2025-12-14 20:11:29,034 - INFO - Model params: total=110621957 trainable=110621957
+2025-12-14 20:11:29,037 - INFO - Train (fit) label distribution -> 1:125, 2:334, 3:634, 4:880, 5:865
+2025-12-14 20:11:29,038 - INFO - Validation label distribution -> 1:14, 2:37, 3:71, 4:98, 5:96
+2025-12-14 20:11:29,039 - INFO - Test label distribution -> 1:61, 2:79, 3:109, 4:142, 5:190
+2025-12-14 20:25:22,112 - INFO - Epoch 1/3 | loss: 1.3055 | val_acc: 0.4589 | val_f1_macro: 0.3004 | time: 808.16s
+2025-12-14 20:39:05,994 - INFO - Epoch 2/3 | loss: 1.1338 | val_acc: 0.4937 | val_f1_macro: 0.3655 | time: 801.06s
+2025-12-14 20:53:02,615 - INFO - Epoch 3/3 | loss: 0.8911 | val_acc: 0.5380 | val_f1_macro: 0.4503 | time: 809.18s
+2025-12-14 20:53:51,565 - INFO - Test metrics: {'accuracy': 0.39070567986230637, 'f1_macro': 0.3437171547062871}
+2025-12-14 20:53:52,188 - INFO - Saved model weights to /app/data/model.pt
+2025-12-14 20:53:52,190 - INFO - Saved metrics to /app/data/model.json
+2025-12-14 20:53:52,283 - INFO - Saved training curves to media/training_curves.png
 ics: {'accuracy': 0.39070567986230637, 'f1_macro': 0.3437171547062871}
-2025-12-14 19:26:33,836 - INFO - Saved model weights to /app/data/model.pt
-2025-12-14 19:26:33,839 - INFO - Saved metrics to /app/data/model.json
-2025-12-14 19:26:33,983 - INFO - Saved training curves to media/training_curves.png
-2025-12-14 19:26:35,791 - INFO - Using device: cpu
-2025-12-14 19:26:35,812 - INFO - Train rows: 3154, Test rows: 581
-2025-12-14 19:26:35,813 - INFO - Validation rows: 316
-2025-12-14 19:26:37,271 - INFO - Running validation evaluation...
-2025-12-14 19:27:04,014 - INFO - Classification report:
+2025-12-14 20:53:52,188 - INFO - Saved model weights to /app/data/model.pt
+2025-12-14 20:53:52,190 - INFO - Saved metrics to /app/data/model.json
+2025-12-14 20:53:52,283 - INFO - Saved training curves to media/training_curves.png
+2025-12-14 20:53:53,800 - INFO - Using device: cpu
+2025-12-14 20:53:53,820 - INFO - Train rows: 3154, Test rows: 581
+2025-12-14 20:53:53,821 - INFO - Validation rows: 316
+2025-12-14 20:53:54,969 - INFO - Running validation evaluation...
+2025-12-14 20:54:19,395 - INFO - Classification report:
               precision    recall  f1-score   support
 
            0      1.000     0.143     0.250        14
            1      0.444     0.324     0.375        37
            2      0.377     0.324     0.348        71
-           3      0.496     2025-12-14 19:27:04,014 - INFO - Classification report:
+           3      0.496     2025-12-14 20:54:19,395 - INFO - Classification report:
               precision    recall  f1-score   support
 
            0      1.000     0.143     0.250        14
            1      0.444     0.324     0.375        37
-           2      0.377  2025-12-14 19:27:04,312 - INFO - Saved confusion matrix for val to media/confusion_val.png
-2025-12-14 19:27:04,329 - INFO - Running test evaluation...
-2025-12-14 19:28:03,607 - INFO - Classification report:
+           2      0.377  2025-12-14 20:54:19,595 - INFO - Saved confusion matrix for val to media/confusion_val.png
+2025-12-14 20:54:19,611 - INFO - Running test evaluation...
+2025-12-14 20:55:06,552 - INFO - Classification report:
               precision    recall  f1-score   support
 
            0      0.889     0.131     0.229        61
            1      0.302     0.203     0.242        79
            2      0.319     0.394     0.352       109
-           3      0.275     2025-12-14 19:28:03,607 - INFO - Classification report:
+           3      0.275     2025-12-14 20:55:06,552 - INFO - Classification report:
               precision    recall  f1-score   support
 
            0      0.889     0.131     0.229        61
            1      0.302     0.203     0.242        79
-           2      0.319  2025-12-14 19:28:03,756 - INFO - Saved confusion matrix for test to media/confusion_test.png
-2025-12-14 19:28:03,778 - INFO - Validation metrics -> acc: 0.5380 | f1_macro: 0.4503
-2025-12-14 19:28:03,780 - INFO - Test metrics -> acc: 0.3907 | f1_macro: 0.3437
-2025-12-14 19:28:03,801 - INFO - Saved evaluation metrics to /app/data/model.eval.json
+           2      0.319  2025-12-14 20:55:06,754 - INFO - Saved confusion matrix for test to media/confusion_test.png
+2025-12-14 20:55:06,754 - INFO - Validation metrics -> acc: 0.5380 | f1_macro: 0.4503
+2025-12-14 20:55:06,754 - INFO - Test metrics -> acc: 0.3907 | f1_macro: 0.3437
+2025-12-14 20:55:06,755 - INFO - Saved evaluation metrics to /app/data/model.eval.json
 ion matrix for test to media/confusion_test.png
-2025-12-14 19:28:03,778 - INFO - Validation metrics -> acc: 0.5380 | f1_macro: 0.4503
-2025-12-14 19:28:03,780 - INFO - Test metrics -> acc: 0.3907 | f1_macro: 0.3437
-2025-12-14 19:28:03,801 - INFO - Saved evaluation metrics to /app/data/model.eval.json
-2025-12-14 19:28:05,005 - INFO - Using device: cpu
-2025-12-14 19:28:08,155 - INFO - Pred: 5 | conf=0.977 | expected=None | correct=None | text=1.1.1. A Weboldalon történő Megrendeléshez a Felhasználónak/Ügyfélnek a Weboldalon Saját fiókot kell létrehoznia neve, e
-2025-12-14 19:28:08,156 - INFO - Pred: 5 | conf=0.879 | expected=None | corre2025-12-14 19:28:08,155 - INFO - Pred: 5 | conf=0.977 | expected=None | correct=None | text=1.1.1. A Weboldalon történő Megrendeléshez a Felha2025-12-14 19:28:08,158 - INFO - Pred: 5 | conf=0.797 | expected=None | correct=None | text=1.2.1. Az emag.hu weboldalon keresztül az Ügyfél/Vásárló elektronikus úton Megrendelést adhat le oly módon, hogy a kivál
-2025-12-14 19:28:08,158 - INFO - Pred: 5 | conf=0.860 | expected=None | correct=None | text=1.2.2. Az Ügyfél jelen ÁFF elfogadását követően a Megrendelés gombra kattintva véglegesítheti a Megrendelést (ajánlat).
-2025-12-14 19:28:08,159 - INFO - Pred: 4 | conf=0.589 | expected=None | correct=None | text=1.2.3. A Megrendelés véglegesítésével az Ügyfél/Vásárló kijelenti, hogy az általa megadott, a vásárláshoz szükséges adat
-2025-12-14 19:28:08,161 - INFO - Pred: 5 | conf=0.869 | expected=5 | correct=True | text=Az MMM, illetve a Media Markt Webáruház nem vetette alá magát semmilyen magatartási kódex rendelkezéseinek.
-2025-12-14 19:28:08,161 - INFO - Pred: 5 | conf=0.830 | expected=4 | correct=False | text=A termékkel/szolgáltatással kapcsolatos fontos tudnivalókat (így különösen azok lényeges tulajdonságai, jellemzői; műsza
-2025-12-14 19:28:08,162 - INFO - Pred: 4 | conf=0.677 | expected=3 | correct=False | text=A Vásárlónak a rendelés bármely szakaszában és a megrendelés MMM részére való elküldéséig a Media Markt Webáruházban bár
-2025-12-14 19:28:08,162 - INFO - Pred: 3 | conf=0.460 | expected=1 | correct=False | text=TTávollévők között kötött szerződés esetén a vállalkozás a jogszabály által előírt tájékoztatást – világos és közérthető
-2025-12-14 19:28:08,163 - INFO - Pred: 4 | conf=0.503 | expected=5 | correct=False | text=A kereskedelmi célú internetes honlappal rendelkező vállalkozás köteles legkésőbb a Vásárló szerződéses ajánlatának megt
-2025-12-14 19:28:08,163 - INFO - Pred: 3 | conf=0.524 | expected=3 | correct=True | text=A távollévők között kötött szerződés megkötését követően – ésszerű időn belül, de a termék adásvételére irányuló szerződ
-2025-12-14 19:28:08,164 - INFO - Pred: 4 | conf=0.509 | expected=3 | correct=False | text=Annak érdekében, hogy az árfigyelő rendszer figyelmeztető üzenetet küldhessen, a szolgáltatást igénybe vevő látogató e-m
-2025-12-14 19:28:08,167 - INFO - Pred: 3 | conf=0.473 | expected=2 | correct=False | text=6.2. A Vásárló részéről a megrendelés leadása nem eredményezi az MMM és a Vásárló közötti szerződés létrejöttét. A Vásár
-2025-12-14 19:28:08,168 - INFO - Pred: 4 | conf=0.496 | expected=3 | correct=False | text=Wolt Delivery Magyarország Kft. (székhely: 1085 Budapest, Salétrom utca 4; cégjegyzékszám: 01-09- 390993). A házhozszáll
-2025-12-14 19:28:08,168 - INFO - Pred: 5 | conf=0.358 | expected=2 | correct=False | text=GLS General Logistics Systems Hungary Csomag-Logisztikai Kft. (székhely: 2351 Alsónémedi GLS Európa u. 2.; cégjegyzékszá
-2025-12-14 19:28:08,169 - INFO - Pred: 5 | conf=0.759 | expected=3 | correct=False 2025-12-14 19:28:08,168 - INFO - Pred: 5 | conf=0.358 | expected=2 | correct=False | text=GLS General Logistics Systems Hungary Csomag-Logisz2025-12-14 19:28:08,169 - INFO - Pred: 4 | conf=0.469 | expected=4 | correct=True | text=Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű sza
-2025-12-14 19:28:08,177 - INFO - Saved inference outputs to log/inference_outputs.json
-8,169 - INFO - Pred: 4 | conf=0.469 | expected=4 | correct=True | text=Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű sza
-2025-12-14 19:28:08,177 - INFO - Saved inference outputs to log/inference_outputs.json
-[run.sh] Pipeline finished at 2025-12-14T19:28:08+00:00
+2025-12-14 20:55:06,754 - INFO - Validation metrics -> acc: 0.5380 | f1_macro: 0.4503
+2025-12-14 20:55:06,754 - INFO - Test metrics -> acc: 0.3907 | f1_macro: 0.3437
+2025-12-14 20:55:06,755 - INFO - Saved evaluation metrics to /app/data/model.eval.json
+2025-12-14 20:55:07,643 - INFO - Using device: cpu
+2025-12-14 20:55:10,010 - INFO - Pred: 5 | conf=0.977 | expected=None | correct=None | text=1.1.1. A Weboldalon történő Megrendeléshez a Felhasználónak/Ügyfélnek a Weboldalon Saját fiókot kell létrehoznia neve, e
+2025-12-14 20:55:10,013 - INFO - Pred: 5 | conf=0.879 | expected=None | correct=None | text=1.1.2. Amennyiben a Felhasználó Saját fiók használata nélkül Megrendelést ad le az emag.hu-n, az eMAG részére, a Megrend
+2025-12-14 20:55:10,015 - INFO - Pred: 5 | conf=0.797 | expected=None | correct=None | text=1.2.1. Az emag.hu weboldalon keresztül az Ügyfél/Vásárló elektronikus úton Megrendelést adhat le oly módon, hogy a kivál
+2025-12-14 20:55:10,016 - INFO - Pred: 5 | conf=0.860 | expected=None | correct=None | text=1.2.2. Az Ügyfél jelen ÁFF elfogadását követően a Megrendelés gombra kattintva véglegesítheti a Megrendelést (ajánlat).
+2025-12-14 20:55:10,017 - INFO - Pred: 4 | conf=0.589 | expected=None | correct=None | text=1.2.3. A Megrendelés véglegesítésével az Ügyfél/Vásárló kijelenti, hogy az általa megadott, a vásárláshoz szükséges adat
+2025-12-14 20:55:10,018 - INFO - Pred: 5 | conf=0.869 | expected=5 | correct=True | text=Az MMM, illetve a Media Markt Webáruház nem vetette alá magát semmilyen magatartási kódex rendelkezéseinek.
+2025-12-14 20:55:10,018 - INFO - Pred: 5 | conf=0.830 | expected=4 | correct=False | text=A termékkel/szolgáltatással kapcsolatos fontos tudnivalókat (így különösen azok lényeges tulajdonságai, jellemzői; műsza
+2025-12-14 20:55:10,019 - INFO - Pred: 4 | conf=0.677 | expected=3 | correct=False | text=A Vásárlónak a rendelés bármely szakaszában és a megrendelés MMM részére való elküldéséig a Media Markt Webáruházban bár
+2025-12-14 20:55:10,019 - INFO - Pred: 3 | conf=0.460 | expected=1 | correct=False | text=TTávollévők között kötött szerződés esetén a vállalkozás a jogszabály által előírt tájékoztatást – világos és közérthető
+2025-12-14 20:55:10,020 - INFO - Pred: 4 | conf=0.503 | expected=5 | correct=False | text=A kereskedelmi célú internetes honlappal rendelkező vállalkozás köteles legkésőbb a Vásárló szerződéses ajánlatának megt
+2025-12-14 20:55:10,020 - INFO - Pred: 3 | conf=0.524 | expected=3 | correct=True | text=A távollévők között kötött szerződés megkötését követően – ésszerű időn belül, de a termék adásvételére irányuló szerződ
+2025-12-14 20:55:10,021 - INFO - Pred: 4 | conf=0.509 | expected=3 | correct=False | text=Annak érdekében, hogy az árfigyelő rendszer figyelmeztető üzenetet küldhessen, a szolgáltatást igénybe vevő látogató e-m
+2025-12-14 20:55:10,022 - INFO - Pred: 3 | conf=0.473 | expected=2 | correct=False | text=6.2. A Vásárló részéről a megrendelés leadása nem eredményezi az MMM és a Vásárló közötti szerződés létrejöttét. A Vásár
+2025-12-14 20:55:10,022 - INFO - Pred: 4 | conf=0.496 | expected=3 | correct=False | text=Wolt Delivery Magyarország Kft. (székhely: 1085 Budapest, Salétrom utca 4; cégjegyzékszám: 01-09- 390993). A házhozszáll
+2025-12-14 20:55:10,022 - INFO - Pred: 5 | conf=0.358 | expected=2 | correct=False | text=GLS General Logistics Systems Hungary Csomag-Logisztikai Kft. (székhely: 2351 Alsónémedi GLS Európa u. 2.; cégjegyzékszá
+2025-12-14 20:55:10,023 - INFO - Pred: 5 | conf=0.759 | expected=3 | correct=False | text=Amennyiben a raktár zárva tart, és a Vásárló a rendelését ezen a napon adja le, úgy a rendelés feldolgozása az első köve
+2025-12-14 20:55:10,023 - INFO - Pred: 4 | conf=0.469 | expected=4 | correct=True | text=Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű sza
+2025-12-14 20:55:10,026 - INFO - Saved inference outputs to log/inference_outputs.json
+0,023 - INFO - Pred: 4 | conf=0.469 | expected=4 | correct=True | text=Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű sza
+2025-12-14 20:55:10,026 - INFO - Saved inference outputs to log/inference_outputs.json
+[run.sh] Pipeline finished at 2025-12-14T20:55:10+00:00

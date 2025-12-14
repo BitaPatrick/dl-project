@@ -17,3 +17,22 @@
 2025-12-14 19:28:08,169 - INFO - Pred: 5 | conf=0.759 | expected=3 | correct=False | text=Amennyiben a raktár zárva tart, és a Vásárló a rendelését ezen a napon adja le, úgy a rendelés feldolgozása az első köve
 2025-12-14 19:28:08,169 - INFO - Pred: 4 | conf=0.469 | expected=4 | correct=True | text=Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű sza
 2025-12-14 19:28:08,177 - INFO - Saved inference outputs to log/inference_outputs.json
+2025-12-14 20:55:07,643 - INFO - Using device: cpu
+2025-12-14 20:55:10,010 - INFO - Pred: 5 | conf=0.977 | expected=None | correct=None | text=1.1.1. A Weboldalon történő Megrendeléshez a Felhasználónak/Ügyfélnek a Weboldalon Saját fiókot kell létrehoznia neve, e
+2025-12-14 20:55:10,013 - INFO - Pred: 5 | conf=0.879 | expected=None | correct=None | text=1.1.2. Amennyiben a Felhasználó Saját fiók használata nélkül Megrendelést ad le az emag.hu-n, az eMAG részére, a Megrend
+2025-12-14 20:55:10,015 - INFO - Pred: 5 | conf=0.797 | expected=None | correct=None | text=1.2.1. Az emag.hu weboldalon keresztül az Ügyfél/Vásárló elektronikus úton Megrendelést adhat le oly módon, hogy a kivál
+2025-12-14 20:55:10,016 - INFO - Pred: 5 | conf=0.860 | expected=None | correct=None | text=1.2.2. Az Ügyfél jelen ÁFF elfogadását követően a Megrendelés gombra kattintva véglegesítheti a Megrendelést (ajánlat).
+2025-12-14 20:55:10,017 - INFO - Pred: 4 | conf=0.589 | expected=None | correct=None | text=1.2.3. A Megrendelés véglegesítésével az Ügyfél/Vásárló kijelenti, hogy az általa megadott, a vásárláshoz szükséges adat
+2025-12-14 20:55:10,018 - INFO - Pred: 5 | conf=0.869 | expected=5 | correct=True | text=Az MMM, illetve a Media Markt Webáruház nem vetette alá magát semmilyen magatartási kódex rendelkezéseinek.
+2025-12-14 20:55:10,018 - INFO - Pred: 5 | conf=0.830 | expected=4 | correct=False | text=A termékkel/szolgáltatással kapcsolatos fontos tudnivalókat (így különösen azok lényeges tulajdonságai, jellemzői; műsza
+2025-12-14 20:55:10,019 - INFO - Pred: 4 | conf=0.677 | expected=3 | correct=False | text=A Vásárlónak a rendelés bármely szakaszában és a megrendelés MMM részére való elküldéséig a Media Markt Webáruházban bár
+2025-12-14 20:55:10,019 - INFO - Pred: 3 | conf=0.460 | expected=1 | correct=False | text=TTávollévők között kötött szerződés esetén a vállalkozás a jogszabály által előírt tájékoztatást – világos és közérthető
+2025-12-14 20:55:10,020 - INFO - Pred: 4 | conf=0.503 | expected=5 | correct=False | text=A kereskedelmi célú internetes honlappal rendelkező vállalkozás köteles legkésőbb a Vásárló szerződéses ajánlatának megt
+2025-12-14 20:55:10,020 - INFO - Pred: 3 | conf=0.524 | expected=3 | correct=True | text=A távollévők között kötött szerződés megkötését követően – ésszerű időn belül, de a termék adásvételére irányuló szerződ
+2025-12-14 20:55:10,021 - INFO - Pred: 4 | conf=0.509 | expected=3 | correct=False | text=Annak érdekében, hogy az árfigyelő rendszer figyelmeztető üzenetet küldhessen, a szolgáltatást igénybe vevő látogató e-m
+2025-12-14 20:55:10,022 - INFO - Pred: 3 | conf=0.473 | expected=2 | correct=False | text=6.2. A Vásárló részéről a megrendelés leadása nem eredményezi az MMM és a Vásárló közötti szerződés létrejöttét. A Vásár
+2025-12-14 20:55:10,022 - INFO - Pred: 4 | conf=0.496 | expected=3 | correct=False | text=Wolt Delivery Magyarország Kft. (székhely: 1085 Budapest, Salétrom utca 4; cégjegyzékszám: 01-09- 390993). A házhozszáll
+2025-12-14 20:55:10,022 - INFO - Pred: 5 | conf=0.358 | expected=2 | correct=False | text=GLS General Logistics Systems Hungary Csomag-Logisztikai Kft. (székhely: 2351 Alsónémedi GLS Európa u. 2.; cégjegyzékszá
+2025-12-14 20:55:10,023 - INFO - Pred: 5 | conf=0.759 | expected=3 | correct=False | text=Amennyiben a raktár zárva tart, és a Vásárló a rendelését ezen a napon adja le, úgy a rendelés feldolgozása az első köve
+2025-12-14 20:55:10,023 - INFO - Pred: 4 | conf=0.469 | expected=4 | correct=True | text=Az Utánvét díj összegéről azMMMa vásárlási folyamat során egyértelmű tájékoztatást ad a folyamat„Fizetés” elnevezésű sza
+2025-12-14 20:55:10,026 - INFO - Saved inference outputs to log/inference_outputs.json
